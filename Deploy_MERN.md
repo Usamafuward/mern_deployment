@@ -90,7 +90,7 @@ Cconfigure Environment Variables (for my project)
  EMAIL = "example@mail.com"
  PASSWORD = "your_password"
  BASE_URL = "https://127.0.0.1:5000/"
- SECRET_KEY = "JIICGbfFkpwq01wQOfDNGEaKAdqGjJDC"
+ SECRET_KEY = "your_secret_key"
  MONGODB_CONNECTION_STRING = "mongodb://username:password@127.0.0.1:27017/database_name"
  MARX_LKR_MERCHANT_SECRET = "your_merchant_secret"
  MARX_USD_MERCHANT_SECRET = "your_merchant_secret"
