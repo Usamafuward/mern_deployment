@@ -48,7 +48,7 @@ Install Git
 
 ###  2. Setting Up the MongoDB Database
 
-If you want to setup MongoDB on VPS Follow this Guide: [click here](https://github.com/Usamapuward/mern_deployment/blob/main/MongoDB_Setup.md)
+If you want to setup MongoDB on VPS Follow this Guide: [click here](https://github.com/Usamafuward/mern_deployment/blob/main/MongoDB_Setup.md)
 
 ### 3. Deploying the Express and Node.js Backend
 
