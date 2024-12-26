@@ -7,7 +7,7 @@
 - Preparing the VPS Environment
 - Setting Up the MongoDB Database
 - Deploying the Express and Node.js Backend
-- Deploying the React Frontends
+- Deploying the React Frontend
 - Configuring Nginx as a Reverse Proxy
 - Setting Up SSL Certificates
 ### 1. Preparing the VPS Environment
